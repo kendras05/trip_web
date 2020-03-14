@@ -8,12 +8,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-<<<<<<< HEAD
     "bootstrap": "^4.4.1",
-<<<<<<< HEAD
-=======
-=======
->>>>>>> upstream/develop
     "@typescript-eslint/eslint-plugin": "^2.10.0",
     "@typescript-eslint/parser": "^2.10.0",
     "babel-eslint": "10.0.3",
@@ -50,10 +45,6 @@
     "postcss-normalize": "8.0.1",
     "postcss-preset-env": "6.7.0",
     "postcss-safe-parser": "4.0.1",
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> upstream/develop
     "react": "^16.13.0",
     "react-app-polyfill": "^1.0.6",
     "react-dev-utils": "^10.2.0",
