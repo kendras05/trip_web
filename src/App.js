@@ -1,6 +1,6 @@
 
 import React from 'react'
-import Board from './components/Board'
+import Board from './components/Board.js'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
 import logo from './assets/roadtrip.gif'
