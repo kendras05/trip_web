@@ -1,15 +1,12 @@
 
 import React from 'react'
+import Board from './components/Board.js'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
 import logo from './assets/roadtrip.gif'
+import Map from './leaflet.js'
 
 const App = ()=> {
-
-import React from 'react';
-import './App.css';
-import Map from './leaflet.js';
-
   return (
     <div className="App">
       <h1 className="title" style = { {color: "white"} }>Trip Tracker</h1>
