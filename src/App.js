@@ -10,7 +10,7 @@ const App = ()=> {
       <h1 className="title" style = { {color: "white"} }>Trip Tracker</h1>
       <p style={ {color: "white", fontSize: "14px"} }>Your new favorite trip planner 🚙</p>
       <img src={logo}></img>
-      <section id="board">Board</section>
+      <Board />
     </div>
   )
 }
