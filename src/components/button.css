@@ -1,0 +1,54 @@
+:root {
+    --primary: indigo;
+    --warning: yellow;
+    --danger: red;
+    --success: green;
+    --white: white;
+    --black: black;
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+}
+
+/* Colors and Styles */
+
+.btn--primary {
+    background-color: var(--primary);
+    color: var(--white);
+}
+
+.btn--warning {
+    background-color: var(--warning);
+    color: var(--black);
+}
+
+.btn--danger {
+    background-color: var(--danger);
+    color: var(--black);
+}
+
+.btn--success {
+    background-color: var(--success);
+    color: var(--white);
+}
+
+/* Button Sizes */
+
+.btn--small {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.btn--medium {
+    padding: 15px 30px;
+    font-size: 20px;
+}
